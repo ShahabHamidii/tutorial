@@ -1,2 +1,3 @@
 Collaboration Demo Project
-Version 1.0
+Version 1.0Feature: Simple text-based collaboration demo
+Version: 1.0 - Initial release
